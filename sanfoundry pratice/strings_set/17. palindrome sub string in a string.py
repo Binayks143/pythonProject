@@ -1,3 +1,4 @@
+#Find the palindrome sub string in a string
 
 def ispalindrome(a):
     return a==a[::-1]
