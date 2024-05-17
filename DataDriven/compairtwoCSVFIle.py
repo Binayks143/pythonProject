@@ -3,9 +3,9 @@ import csv
 from DataDriven.compairingTwoCSV import diff_row
 
 #configuring the path
-path = "C:\\Users\\SC-229-USER\\Desktop\\ks\\"
-file1 = 'ravi_hp'
-file2 = 'ravi_lp'
+path = "C:\\Users\\SC-229-USER\\Desktop\\sweta\\"
+file1 = 'req_locked_hp'
+file2 = 'req_locked_lp'
 
 file_loc1 =  path + str(file1)+str(".csv")
 file_loc2 =  path + str(file2)+str(".csv")

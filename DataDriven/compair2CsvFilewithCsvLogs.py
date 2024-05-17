@@ -35,10 +35,10 @@ def compare_csv_files(file1, file2, output_file):
 
 # Example usage
 #configuring the path
-path = "C:\\Users\\SC-229-USER\\Desktop\\ks\\"
+path = "C:\\Users\\SC-229-USER\\Desktop\\sweta\\"
 #file_name = "premium_hp"
-file1 = 'ravi_hp'
-file2 = 'ravi_lp'
+file1 = 'req_locked_hp'
+file2 = 'req_locked_lp'
 file_loc1 =  path + str(file1)+str(".csv")
 file_loc2 =  path + str(file2)+str(".csv")
 

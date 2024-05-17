@@ -2,9 +2,9 @@ import csv
 import pathlib
 #Best one
 #configuring the path
-path = "C:\\Users\\SC-229-USER\\Desktop\\ks\\"
-file_name1 = "ravi_hp"
-file_name2 = "ravi_lp"
+path = "C:\\Users\\SC-229-USER\\Desktop\\sweta\\"
+file_name1 = "hp_random"
+file_name2 = "lp_random"
 
 file_loc1 =  path + str(file_name1)+str(".csv")
 file_loc2 =  path + str(file_name2)+str(".csv")

@@ -1,6 +1,1 @@
-14320290,105,REQ_LOCKED,"{""reason"":""intentScore calculation pending"",""intentScoreId"":""null"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
-15521082,105,REQ_LOCKED,"{""reason"":""intentScore calculation pending"",""intentScoreId"":""null"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
-16748375,105,REQ_LOCKED,"{""reason"":""intentScore calculation pending"",""intentScoreId"":""null"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
-19330980,105,REQ_LOCKED,"{""reason"":""intentScore calculation pending"",""intentScoreId"":""null"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
-19489672,105,REQ_LOCKED,"{""reason"":""intentScore calculation pending"",""intentScoreId"":""null"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
-19683204,105,REQ_LOCKED,"{""reason"":""intentScore calculation pending"",""intentScoreId"":""null"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
+1667751,274464,LOCKED,"{""reason"":""risky_overdue_sms"",""rs"":""97.0"",""intentScore"":""98.9"",""categories"":""[\""RIPPLE_DUMMY_CAT\""]"",""strategy"":""CategoryWiseUserLoanProductUnlockStrategy""}"
