@@ -1,3 +1,4 @@
+
 #Python Program to Remove Odd Indexed Characters in a string
 
 def removeOddChar(givenString):

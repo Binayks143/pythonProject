@@ -9,7 +9,7 @@ for i in string1:
         word.append(i)
 
 for i in string2:
-    if i not  in word:
+    if i not in word:
         word.append(i)
 print(word)
 
