@@ -14,3 +14,5 @@ if palindromeCheck(input_value):
 else:
     print(input_value,"is not palindrome")
 
+
+
