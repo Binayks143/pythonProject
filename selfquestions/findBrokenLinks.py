@@ -19,7 +19,3 @@ for i in links:
         if response.status_code>=400:
             print("Broken Link Found : "+ link_url)
 driver.quit()
-
-
-
-driver.quit()

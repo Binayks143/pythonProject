@@ -14,7 +14,7 @@ n1 = n.copy()
 
 sorted_by_keys = dict(sorted(n.items()))
 print("sorted_by_keys=", sorted_by_keys)
-sorted_by_values = dict(sorted(n.items(), key=lambda item: item[1]))
+sorted_by_values = dict(sorted(n.items(), key=lambda item: item[1],reverse=False))
 print("sorted_by_values ", sorted_by_values)
 print("Deleting one key and value")
 del n1['B']
