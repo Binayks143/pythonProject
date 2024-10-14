@@ -22,9 +22,9 @@ class Mango(Fruit):
 
 
 
-F1=Fruit()
-F1.nutrition()
-F1.fruit_shape()
+# F1=Fruit()
+# F1.nutrition()
+# F1.fruit_shape()
 
 
 m1=Mango()
