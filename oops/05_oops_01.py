@@ -20,8 +20,8 @@ print(c1.model)
 c1.info()
 
 c2 = Car('HONDA','BENZ')
-print(c1.make)
-print(c1.model)
+print(c2.make)
+print(c2.model)
 
 #print(c2.wheels) # this is not a proper way to call class variable to call class variable use class name
 print("wheels=" + str(Car.wheels))

@@ -1,16 +1,14 @@
-import asyncio.constants
+l=[4,5,63,3,7,6]
+target=9
+pairs=[]
 
-l=[1,3,5,11]
-target=8
-s=set()
-for i in l:
-    for j in l:
-        if i+j==target:
-            s.add(i)
-            s.add(j)
-
-if sum(s)==target:
-    print(True)
-else:
-    print(False)
-print(s)
+for i in range(len(l)):
+    for j in range(i+1,len(l)):
+        if l[i]+l[j]==target:
+            pairs.append((l[i],l[j]))
+print(pairs)
+for i in pairs:
+    if sum(i)==target:
+        print(True)
+    else:
+        print(False)
