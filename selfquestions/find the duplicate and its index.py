@@ -19,11 +19,11 @@ for i in d:
 print(l)
 indexlist = []
 d1 = {}
-for i in range(len(input)):
-    if input[i] in l:
-        if input[i] in d1:
-            d1[input[i]].append(i)
+for i in range(len(input1)):
+    if input1[i] in l:
+        if input1[i] in d1:
+            d1[input1[i]].append(i)
         else:
-            d1[input[i]] = [i]
+            d1[input1[i]] = [i]
 
 print(d1)

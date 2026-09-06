@@ -5,4 +5,5 @@ class car:
 
 c1 = car("binh",89)
 c1.name="hjj"
+
 print(c1.sclass,c1.name)
