@@ -1,5 +1,3 @@
-from PIL.ImageOps import autocontrast
-
 input="automation"
 
 def test1(a):
